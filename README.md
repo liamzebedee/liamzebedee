@@ -9,7 +9,6 @@ yo, I make lots of things.
 ### Products.
 
  * [t1gym](https://github.com/liamzebedee/t1gym): smart diabetes logbook for T1 diabetics using NightScout.
- * [graphparse](https://github.com/liamzebedee/graphparse): codebase visualisation using PageRank applied to AST's.
  * [dutch-translator](https://github.com/liamzebedee/dutch-translator): visual Dutch sentence explainer using NLP.
  * [whoshacking](https://github.com/liamzebedee/whoshacking): Spotify's who's listening for hackers. React, Electron, websockets, Express, Go daemon.
  * [TDLM](https://github.com/liamzebedee/TDLM): vibealicious web UI for collaborative Spotify playlists.
@@ -28,6 +27,7 @@ yo, I make lots of things.
 
 ### Experiments.
 
+ * [graphparse](https://github.com/liamzebedee/graphparse): codebase visualisation using PageRank applied to AST's.
  * [ciaodao](https://github.com/liamzebedee/ciaodao): social chatspaces where only tokenholders can post.
  * [diasim](https://github.com/liamzebedee/diasim): discrete timestep simulation of diabetic metabolism.
  * [merkle-bundles](https://github.com/liamzebedee/merkle-bundles): delivering only the delta of JS bundle updates using Merkle trees.
