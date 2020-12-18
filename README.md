@@ -34,6 +34,9 @@ yo, I make lots of things.
  * [ohdex](https://github.com/liamzebedee/ohdex): cross-chain token bridging protocol, I built with @MickdeGraaf
  * [retrust](https://github.com/liamzebedee/retrust): investigating Evidence-Based Subjective Logic as a reputation protocol for p2p networks. Includes Numpy/Solidity code.
  
+### Unfinished.
+
+ - [ohdex](https://github.com/liamzebedee/ohdex): multichain event bridging protocol.
 
 <!--
 **liamzebedee/liamzebedee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
