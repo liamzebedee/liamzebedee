@@ -5,6 +5,7 @@ yo, I make lots of things.
 ### Contributor.
 
  * [tbtc](https://github.com/keep-network/tbtc) and [tbtc.js](https://github.com/keep-network/tbtc.js)
+ * [synthetix](https://github.com/Synthetixio/synthetix/)
 
 ### Products.
 
