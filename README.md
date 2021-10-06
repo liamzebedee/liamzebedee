@@ -20,6 +20,7 @@ yo, I make lots of things.
 
  * [chainlog](https://github.com/liamzebedee/chainlog): A beautifully simple CLI to log Solidity smart contract interactions.
  * [minilisp](https://github.com/liamzebedee/minilisp): a barebones Lisp in pure JS.
+ * [prometheus-remote-write](https://github.com/liamzebedee/prometheus-remote-write)
 
 ### Libraries.
 
