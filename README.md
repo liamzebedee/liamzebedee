@@ -6,6 +6,7 @@ yo, I make lots of things.
 
  * [tbtc](https://github.com/keep-network/tbtc) and [tbtc.js](https://github.com/keep-network/tbtc.js)
  * [synthetix](https://github.com/Synthetixio/synthetix/)
+ * [synthetix-futures-keepers](https://github.com/Synthetixio/futures-keepers)
 
 ### Products.
 
