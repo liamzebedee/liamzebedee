@@ -8,6 +8,11 @@ yo, I make lots of things.
  * [synthetix](https://github.com/Synthetixio/synthetix/)
  * [synthetix-futures-keepers](https://github.com/Synthetixio/futures-keepers)
 
+### Protocols.
+
+ * [hyper](https://github.com/liamzebedee/hyper): image editor + hypermedia protocol
+ * [sugardao](https://github.com/liamzebedee/sugardao): the diabetic-backed stablecoin
+
 ### Products.
 
  * [t1gym](https://github.com/liamzebedee/t1gym): smart diabetes logbook for T1 diabetics using NightScout.
