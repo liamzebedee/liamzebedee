@@ -2,16 +2,14 @@
 
 yo, I make lots of things.
 
+Currently - [quark-blockchain](https://github.com/liamzebedee/quark-blockchain).
+
 ### Contributor.
 
  * [tbtc](https://github.com/keep-network/tbtc) and [tbtc.js](https://github.com/keep-network/tbtc.js)
  * [synthetix](https://github.com/Synthetixio/synthetix/)
  * [synthetix-futures-keepers](https://github.com/Synthetixio/futures-keepers)
-
-### Protocols.
-
- * [hyper](https://github.com/liamzebedee/hyper): image editor + hypermedia protocol
- * [sugardao](https://github.com/liamzebedee/sugardao): the diabetic-backed stablecoin
+ * [giza](https://github.com/maxgillett/giza)
 
 ### Products.
 
@@ -44,6 +42,8 @@ yo, I make lots of things.
  
 ### Unfinished.
 
+ * [hyper](https://github.com/liamzebedee/hyper): image editor + hypermedia protocol
+ * [sugardao](https://github.com/liamzebedee/sugardao): the diabetic-backed stablecoin
  - [ohdex](https://github.com/liamzebedee/ohdex): multichain event bridging protocol.
 
 <!--
