@@ -9,7 +9,8 @@ Currently - [quark-blockchain](https://github.com/liamzebedee/quark-blockchain).
  * [tbtc](https://github.com/keep-network/tbtc) and [tbtc.js](https://github.com/keep-network/tbtc.js)
  * [synthetix](https://github.com/Synthetixio/synthetix/)
  * [synthetix-futures-keepers](https://github.com/Synthetixio/futures-keepers)
- * [giza](https://github.com/maxgillett/giza)
+ * [giza](https://github.com/maxgillett/giza) - a prover for the Cairo ZK-STARK environment.
+ * [mergeswap](https://github.com/codyx/mergeswap) - cross-EVM token bridge using state proofs.
 
 ### Products.
 
