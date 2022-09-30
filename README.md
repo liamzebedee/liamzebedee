@@ -1,10 +1,12 @@
 ### G'day 👋
 
-yo, I make lots of things.
+yo, I make lots of things. Here's a list of projects I've either built or contributed to. I'm trying to move more to building things with other people. After all, `the_whole > sum(parts)` :)
 
-Here's a list of projects I've either built or contributed to. 
+👯 I'm looking to collaborate on: hard tech (ZK, VM's, bridging, state proofs), ideas at the intersection of culture (memes) and capital (crypto), and crafting well-designed web3 products
 
-I'm trying to move more to building things with other people. After all, `the_whole > sum(parts)` :)
+📫 How to reach me: [Twitter DM's](https://twitter.com/liamzebedee)
+
+⚡ Fun fact: I'm a [real-life cyborg](https://liamz.co/blog/im-a-cyborg-now-on-building-my-own-artificial-pancreas/)!
 
 ### Crypto Protocols.
 
@@ -56,18 +58,3 @@ I'm trying to move more to building things with other people. After all, `the_wh
  * [TDLM](https://github.com/liamzebedee/TDLM): vibealicious web UI for collaborative Spotify playlists.
  * [metric](https://github.com/liamzebedee/metric): innovative new web app for quantified self, sans tables.
  * [synthetix-futures-keepers](https://github.com/Synthetixio/futures-keepers)
-
-<!--
-**liamzebedee/liamzebedee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
