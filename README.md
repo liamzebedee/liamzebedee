@@ -8,6 +8,8 @@ yo, I make lots of things. Here's a list of projects I've either built or contri
 
 ⚡ Fun fact: I'm a [real-life cyborg](https://liamz.co/blog/im-a-cyborg-now-on-building-my-own-artificial-pancreas/)!
 
+**Currently:** [Take](https://github.com/liamzebedee/take.xyz) (crypto/new-media), Dappnet, [Darude](https://github.com/ponderingdemocritus/darude) (gaming/l3's/zk)
+
 ### Crypto Protocols.
 
  * [tbtc](https://github.com/keep-network/tbtc) and [tbtc.js](https://github.com/keep-network/tbtc.js)
