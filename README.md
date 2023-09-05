@@ -60,3 +60,12 @@ yo, I make lots of things. Here's a list of projects I've either built or contri
  * [TDLM](https://github.com/liamzebedee/TDLM): vibealicious web UI for collaborative Spotify playlists.
  * [metric](https://github.com/liamzebedee/metric): innovative new web app for quantified self, sans tables.
  * [synthetix-futures-keepers](https://github.com/Synthetixio/futures-keepers)
+
+
+# Interesting source code.
+
+I like studying/collecting/archiving codebases of the classic works, specifically their v1 to get inspiration on how system design evolves.
+
+ * [bittorrent v1](https://github.com/liamzebedee/bittorrent-source-archive)
+ * [bitcoin v1](https://github.com/liamzebedee/bitcoin-source-archive)
+ * [scihub/libgen v1](https://github.com/liamzebedee/scihub-source-archive)
