@@ -12,6 +12,7 @@ yo, I make lots of things. Here's a list of projects I've either built or contri
 
 ### Crypto Protocols.
 
+ * [dappnet](https://github.com/dappnetbby/dappnet)
  * [tbtc](https://github.com/keep-network/tbtc) and [tbtc.js](https://github.com/keep-network/tbtc.js)
  * [synthetix](https://github.com/Synthetixio/synthetix/)
  * [mergeswap](https://github.com/codyx/mergeswap) - cross-EVM token bridge using state proofs.
