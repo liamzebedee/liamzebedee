@@ -70,4 +70,4 @@ I like studying/collecting/archiving codebases of the classic works, specificall
  * [bittorrent v1](https://github.com/liamzebedee/bittorrent-source-archive)
  * [bitcoin v1](https://github.com/liamzebedee/bitcoin-source-archive)
  * [scihub/libgen v1](https://github.com/liamzebedee/scihub-source-archive)
- * [javascript-source-archive](https://github.com/liamzebedee/javascript-source-archive)
+ * [javascript v1](https://github.com/liamzebedee/javascript-source-archive)
