@@ -18,7 +18,7 @@ yo, I make lots of things. Here's a list of projects I've either built or contri
  * [mergeswap](https://github.com/codyx/mergeswap) - cross-EVM token bridge using state proofs.
  * [attention-market-maker](https://twitter.com/liamzebedee/status/1504354504212647936) - an algorthmic newsfeed.
 
-### ZK.
+### Zero Knowledge Cryptography,
 
  * [giza](https://github.com/maxgillett/giza) - a prover for the Cairo ZK-STARK environment.
  * [quark-blockchain](https://github.com/liamzebedee/quark-blockchain) - an experimental blockchain using STARK's and partitioned transactional memory. Closely related to research I did on [goliath](https://github.com/liamzebedee/goliath-blockchain). 
