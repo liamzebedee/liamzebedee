@@ -16,6 +16,7 @@ yo, I make lots of things. Here's a list of projects I've either built or contri
  * [tbtc](https://github.com/keep-network/tbtc) and [tbtc.js](https://github.com/keep-network/tbtc.js)
  * [synthetix](https://github.com/Synthetixio/synthetix/)
  * [mergeswap](https://github.com/codyx/mergeswap) - cross-EVM token bridge using state proofs.
+ * [niacin](https://github.com/liamzebedee/niacin) - a Solidity smart contract deployment tool.
  * [attention-market-maker](https://twitter.com/liamzebedee/status/1504354504212647936) - an algorthmic newsfeed.
 
 ### Zero Knowledge Cryptography,
