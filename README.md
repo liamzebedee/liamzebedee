@@ -73,8 +73,9 @@ yo, I make lots of things. Here's a list of projects I've either built or contri
 
 I like studying/collecting/archiving codebases of the classic works, specifically their v1 to get inspiration on how system design evolves.
 
- * [bittorrent v1](https://github.com/liamzebedee/bittorrent-source-archive)
- * [bitcoin v1](https://github.com/liamzebedee/bitcoin-source-archive)
- * [scihub/libgen v1](https://github.com/liamzebedee/scihub-source-archive)
- * [javascript v1](https://github.com/liamzebedee/javascript-source-archive)
- * [postscript v1](https://github.com/liamzebedee/postscript-source-archive)
+ * [BitTorrent](https://github.com/liamzebedee/bittorrent-source-archive)
+ * [Bitcoin](https://github.com/liamzebedee/bitcoin-source-archive)
+ * [Scihub/LibGen](https://github.com/liamzebedee/scihub-source-archive)
+ * [JavaScript (Mocha)](https://github.com/liamzebedee/javascript-source-archive)
+ * [PostScript](https://github.com/liamzebedee/postscript-source-archive)
+ * [Linux](https://github.com/liamzebedee/linux-source-archive)
