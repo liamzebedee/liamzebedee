@@ -79,3 +79,4 @@ I like studying/collecting/archiving codebases of the classic works, specificall
  * [JavaScript (Mocha)](https://github.com/liamzebedee/javascript-source-archive)
  * [PostScript](https://github.com/liamzebedee/postscript-source-archive)
  * [Linux](https://github.com/liamzebedee/linux-source-archive)
+ * [WorldWideWeb (first web browser by Tim Berners-Lee)](https://github.com/liamzebedee/worldwideweb)
