@@ -1,20 +1,16 @@
-### G'day 👋
+### `printf("hello world")`
 
-yo, I make lots of things. Here's a list of projects I've either built or contributed to. I'm trying to move more to building things with other people. After all, `the_whole > sum(parts)` :)
+Currently building [tinychain](https://github.com/tinychainorg/tinychain), the world's smallest Nakamoto blockchain in 10L LOC.
 
-👯 I'm looking to collaborate on: hard tech (ZK, VM's, bridging, state proofs), ideas at the intersection of culture (memes) and capital (crypto), and crafting well-designed web3 products
+Deep tech autism engineer, 16yrs experience. I am T-curved - deep in crypto / distributed systems. Real-life diabetic [cyborg](https://liamz.co/blog/im-a-cyborg-now-on-building-my-own-artificial-pancreas/).
 
-📫 How to reach me: [Twitter DM's](https://twitter.com/liamzebedee)
-
-⚡ Fun fact: I'm a [real-life cyborg](https://liamz.co/blog/im-a-cyborg-now-on-building-my-own-artificial-pancreas/)!
-
-**Currently:** [Dappnet](https://github.com/dappnetbby/dappnet), [Take](https://github.com/liamzebedee/take.xyz) (crypto/new-media)
+👯 I'm looking to collaborate on: hard tech (distributed systems, ZK, ML, VM's, bridging, state proofs)
 
 ### Crypto Protocols.
 
  * [dappnet](https://github.com/dappnetbby/dappnet)
+ * [tinychain](https://github.com/tinychainorg/tinychain)
  * [tbtc](https://github.com/keep-network/tbtc) and [tbtc.js](https://github.com/keep-network/tbtc.js)
- * [synthetix](https://github.com/Synthetixio/synthetix/)
  * [mergeswap](https://github.com/codyx/mergeswap) - cross-EVM token bridge using state proofs.
  * [niacin](https://github.com/liamzebedee/niacin) - a Solidity smart contract deployment tool.
  * [attention-market-maker](https://twitter.com/liamzebedee/status/1504354504212647936) - an algorthmic newsfeed.
@@ -68,8 +64,7 @@ yo, I make lots of things. Here's a list of projects I've either built or contri
  * [metric](https://github.com/liamzebedee/metric): innovative new web app for quantified self, sans tables.
  * [synthetix-futures-keepers](https://github.com/Synthetixio/futures-keepers)
 
-
-# Interesting source code.
+### Curating classical software works.
 
 I like studying/collecting/archiving codebases of the classic works, specifically their v1 to get inspiration on how system design evolves.
 
