@@ -13,7 +13,6 @@ Deep tech autism engineer, 16yrs experience. I am T-curved - deep in crypto / di
  * [tbtc](https://github.com/keep-network/tbtc) and [tbtc.js](https://github.com/keep-network/tbtc.js)
  * [mergeswap](https://github.com/codyx/mergeswap) - cross-EVM token bridge using state proofs.
  * [niacin](https://github.com/liamzebedee/niacin) - a Solidity smart contract deployment tool.
- * [attention-market-maker](https://twitter.com/liamzebedee/status/1504354504212647936) - an algorthmic newsfeed.
 
 ### AI.
 
@@ -27,7 +26,6 @@ Deep tech autism engineer, 16yrs experience. I am T-curved - deep in crypto / di
 
 ### Products.
 
- * [t1gym](https://github.com/liamzebedee/t1gym): smart diabetes logbook for T1 diabetics using NightScout.
  * [dutch-translator](https://github.com/liamzebedee/dutch-translator): visual Dutch sentence explainer using NLP.
  * [whoshacking](https://github.com/liamzebedee/whoshacking): Spotify's who's listening for hackers. React, Electron, websockets, Express, Go daemon.
 
@@ -36,6 +34,11 @@ Deep tech autism engineer, 16yrs experience. I am T-curved - deep in crypto / di
  * [minilisp](https://github.com/liamzebedee/minilisp): a barebones Lisp implementation in pure JS.
  * [graphparse](https://github.com/liamzebedee/graphparse): codebase visualisation using PageRank applied to AST's.
  * [diasim](https://github.com/liamzebedee/diasim): discrete timestep simulation of diabetic metabolism.
+
+<!---
+ * [t1gym](https://github.com/liamzebedee/t1gym): smart diabetes logbook for T1 diabetics using NightScout.
+
+ * [attention-market-maker](https://twitter.com/liamzebedee/status/1504354504212647936) - an algorthmic newsfeed.
 
 ### Libraries.
 
@@ -64,9 +67,9 @@ Deep tech autism engineer, 16yrs experience. I am T-curved - deep in crypto / di
  * [metric](https://github.com/liamzebedee/metric): innovative new web app for quantified self, sans tables.
  * [synthetix-futures-keepers](https://github.com/Synthetixio/futures-keepers)
 
-### Curating classical software works.
+--->
 
-I like studying/collecting/archiving codebases of the classic works, specifically their v1 to get inspiration on how system design evolves.
+**Classical works of software**.
 
  * [BitTorrent](https://github.com/liamzebedee/bittorrent-source-archive)
  * [Bitcoin](https://github.com/liamzebedee/bitcoin-source-archive)
