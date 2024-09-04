@@ -9,7 +9,7 @@ Deep tech autism engineer, 16yrs experience. I am T-curved - deep in crypto / di
 ### Crypto Protocols.
 
  * [dappnet](https://github.com/dappnetbby/dappnet)
- * [tinychain](https://github.com/tinychainorg/tinychain)
+ * [tinychain](https://github.com/tinychainorg/tinychain) - a Nakamoto blockchain from scratch in Go.
  * [tbtc](https://github.com/keep-network/tbtc) and [tbtc.js](https://github.com/keep-network/tbtc.js)
  * [mergeswap](https://github.com/codyx/mergeswap) - cross-EVM token bridge using state proofs.
  * [niacin](https://github.com/liamzebedee/niacin) - a Solidity smart contract deployment tool.
@@ -34,6 +34,8 @@ Deep tech autism engineer, 16yrs experience. I am T-curved - deep in crypto / di
  * [minilisp](https://github.com/liamzebedee/minilisp): a barebones Lisp implementation in pure JS.
  * [graphparse](https://github.com/liamzebedee/graphparse): codebase visualisation using PageRank applied to AST's.
  * [diasim](https://github.com/liamzebedee/diasim): discrete timestep simulation of diabetic metabolism.
+ * [distributed-systems-study](https://github.com/liamzebedee/distributed-systems-study)
+ * [tiny-tendermint](https://github.com/liamzebedee/tiny-tendermint) - a Tendermint from scratch implementation in Go.
 
 <!---
  * [t1gym](https://github.com/liamzebedee/t1gym): smart diabetes logbook for T1 diabetics using NightScout.
