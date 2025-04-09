@@ -29,7 +29,6 @@ Deep tech autism engineer, 16yrs experience. I am T-curved - deep in crypto / di
  * [dutch-translator](https://github.com/liamzebedee/dutch-translator): visual Dutch sentence explainer using NLP.
  * [whoshacking](https://github.com/liamzebedee/whoshacking): Spotify's who's listening for hackers. React, Electron, websockets, Express, Go daemon.
  * [metric](https://github.com/liamzebedee/metric): innovative new web app for quantified self, sans tables.
- * 
 
 ### General comsci stuff.
 
