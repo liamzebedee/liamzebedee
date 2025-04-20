@@ -9,7 +9,9 @@ Deep tech autism engineer, 16yrs experience. I am T-curved - deep in crypto / di
 ### Crypto Protocols.
 
  * [dappnet](https://github.com/dappnetbby/dappnet)
- * [tinychain](https://github.com/tinychainorg/tinychain) - a Nakamoto blockchain from scratch in Go.
+ * [tinychain](https://github.com/tinychainorg/tinychain) - implementation of Nakamoto consensus (full blockchain implementation).
+ * [pod-golang](https://github.com/liamzebedee/pod-golang) - implementation of Pod consensus.
+ * [tendermint-rs](https://github.com/liamzebedee/tendermint-rs) - implementation of Tendermint consensus.
  * [tbtc](https://github.com/keep-network/tbtc) and [tbtc.js](https://github.com/keep-network/tbtc.js)
  * [mergeswap](https://github.com/codyx/mergeswap) - cross-EVM token bridge using state proofs.
  * [niacin](https://github.com/liamzebedee/niacin) - a Solidity smart contract deployment tool.
