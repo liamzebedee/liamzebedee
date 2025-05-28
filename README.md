@@ -40,29 +40,48 @@ Deep tech autism engineer, 16yrs experience. I am T-curved - deep in crypto / di
  * [distributed-systems-study](https://github.com/liamzebedee/distributed-systems-study)
  * [tiny-tendermint](https://github.com/liamzebedee/tiny-tendermint) - a Tendermint from scratch implementation in Go.
 
+
+### Classical works of software
+
+ * [BitTorrent](https://github.com/liamzebedee/bittorrent-source-archive)
+ * [Bitcoin](https://github.com/liamzebedee/bitcoin-source-archive)
+ * [Scihub/LibGen](https://github.com/liamzebedee/scihub-source-archive)
+ * [JavaScript (Mocha)](https://github.com/liamzebedee/javascript-source-archive)
+ * [PostScript](https://github.com/liamzebedee/postscript-source-archive)
+ * [Linux](https://github.com/liamzebedee/linux-source-archive)
+ * [WorldWideWeb (first web browser by Tim Berners-Lee)](https://github.com/liamzebedee/worldwideweb)
+
+
 <!---
+### Random other stuff.
+
+ - [database](https://github.com/liamzebedee/simple-database). Studying how databases are implemented.
+ - [stateman](https://github.com/liamzebedee/stateman). React.js state management library
+ - [janest](https://github.com/liamzebedee/janest-1). Jane Street puzzle.
+ * [spotify-style-times](https://github.com/liamzebedee/spotify-style-times)
+ * [jekyll-i18n](https://github.com/liamzebedee/jekyll-i18n)
+ * [ciaodao](https://github.com/liamzebedee/ciaodao): social chatspaces where only tokenholders can post.
+ * [retrust](https://github.com/liamzebedee/retrust): investigating Evidence-Based Subjective Logic as a reputation protocol for p2p networks. Includes Numpy/Solidity code.
+ * [ohdex](https://github.com/liamzebedee/ohdex): cross-chain token bridging protocol, I built with @MickdeGraaf
+ * [goliath-sequencer](https://github.com/liamzebedee/goliath-blockchain/tree/master/sequencer/mvp) - a transaction sequencer network for blockchains using libp2p.
+
+
+
  * [t1gym](https://github.com/liamzebedee/t1gym): smart diabetes logbook for T1 diabetics using NightScout.
+ * [electron-go-picnic](https://github.com/liamzebedee/electron-go-picnic)
 
  * [attention-market-maker](https://twitter.com/liamzebedee/status/1504354504212647936) - an algorthmic newsfeed.
 
 ### Libraries.
 
- * [spotify-style-times](https://github.com/liamzebedee/spotify-style-times)
- * [electron-go-picnic](https://github.com/liamzebedee/electron-go-picnic)
- * [jekyll-i18n](https://github.com/liamzebedee/jekyll-i18n)
-
 ### Experiments.
 
- * [ciaodao](https://github.com/liamzebedee/ciaodao): social chatspaces where only tokenholders can post.
  * [merkle-bundles](https://github.com/liamzebedee/merkle-bundles): delivering only the delta of JS bundle updates using Merkle trees.
- * [retrust](https://github.com/liamzebedee/retrust): investigating Evidence-Based Subjective Logic as a reputation protocol for p2p networks. Includes Numpy/Solidity code.
  
 ### Unfinished.
 
  * [hyper](https://github.com/liamzebedee/hyper): image editor + hypermedia protocol
  * [sugardao](https://github.com/liamzebedee/sugardao): the diabetic-backed stablecoin
- * [ohdex](https://github.com/liamzebedee/ohdex): cross-chain token bridging protocol, I built with @MickdeGraaf
- * [goliath-sequencer](https://github.com/liamzebedee/goliath-blockchain/tree/master/sequencer/mvp) - a transaction sequencer network for blockchains using libp2p.
 
 ### Misc older projects.
 
@@ -73,13 +92,3 @@ Deep tech autism engineer, 16yrs experience. I am T-curved - deep in crypto / di
  * [synthetix-futures-keepers](https://github.com/Synthetixio/futures-keepers)
 
 --->
-
-**Classical works of software**.
-
- * [BitTorrent](https://github.com/liamzebedee/bittorrent-source-archive)
- * [Bitcoin](https://github.com/liamzebedee/bitcoin-source-archive)
- * [Scihub/LibGen](https://github.com/liamzebedee/scihub-source-archive)
- * [JavaScript (Mocha)](https://github.com/liamzebedee/javascript-source-archive)
- * [PostScript](https://github.com/liamzebedee/postscript-source-archive)
- * [Linux](https://github.com/liamzebedee/linux-source-archive)
- * [WorldWideWeb (first web browser by Tim Berners-Lee)](https://github.com/liamzebedee/worldwideweb)
