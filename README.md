@@ -2,7 +2,7 @@
 
 Currently building [tinychain](https://github.com/tinychainorg/tinychain), the world's smallest Nakamoto blockchain in 10L LOC.
 
-Deep tech autism engineer, 16yrs experience. I am T-curved - deep in crypto / distributed systems. Real-life diabetic [cyborg](https://liamz.co/blog/im-a-cyborg-now-on-building-my-own-artificial-pancreas/).
+Deep into crypto / distributed systems. Real-life diabetic [cyborg](https://liamz.co/blog/im-a-cyborg-now-on-building-my-own-artificial-pancreas/).
 
 👯 I'm looking to collaborate on: hard tech (distributed systems, ZK, ML, VM's, bridging, state proofs)
 
