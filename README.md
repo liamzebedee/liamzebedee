@@ -1,7 +1,6 @@
+Hello! I love programming. My favourite areas are distributed systems (consensus algos, Google designs like Borg/Bigtable/Spanner/GFS), cryptography like ZK S[NT]ARKS, multi-party computation (MPC), compilers and virtual machines and runtimes (like Erlang or even how PHP was implemented lol), game engines, databases, I hate architecting with React.js but frontend/HTML is fun creatively, I like smart contracts and DeFi protocols (lending, perpetual futures) and the game theory, and blockchains!
 
-Deep into crypto / distributed systems / all sorts of programmming (databases, frontend, operating systems). Real-life diabetic [cyborg](https://liamz.co/blog/im-a-cyborg-now-on-building-my-own-artificial-pancreas/).
-
-👯 I'm looking to collaborate on: hard tech (distributed systems, ZK, ML, VM's, bridging, state proofs)
+Real-life diabetic [cyborg](https://liamz.co/blog/im-a-cyborg-now-on-building-my-own-artificial-pancreas/).
 
 ### Crypto Protocols.
 
