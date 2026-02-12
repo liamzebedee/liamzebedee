@@ -6,7 +6,7 @@ Real-life diabetic [cyborg](https://liamz.co/blog/im-a-cyborg-now-on-building-my
 
  - iTunes clone for Linux. https://github.com/liamzebedee/ipod-manager
  - New programming language + runtime for prompt and agent orchestration. https://github.com/liamzebedee/gprompt
- - Neural networks that generate plant roots based on real plant root data
+ - Neural networks that generate plant roots based on real plant root data. https://github.com/liamzebedee/generative-roots
 
 # Prev.
 
