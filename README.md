@@ -2,6 +2,14 @@ Hello! I love programming. My favourite areas are distributed systems (consensus
 
 Real-life diabetic [cyborg](https://liamz.co/blog/im-a-cyborg-now-on-building-my-own-artificial-pancreas/).
 
+# Current projects.
+
+ - iTunes clone for Linux. https://github.com/liamzebedee/ipod-manager
+ - New programming language + runtime for prompt and agent orchestration. https://github.com/liamzebedee/gprompt
+ - Neural networks that generate plant roots based on real plant root data
+
+# Prev.
+
 ### Crypto Protocols.
 
  * [dappnet](https://github.com/dappnetbby/dappnet)
