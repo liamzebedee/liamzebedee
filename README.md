@@ -4,7 +4,9 @@ Real-life diabetic [cyborg](https://liamz.co/blog/im-a-cyborg-now-on-building-my
 
 # Current projects.
 
- - iTunes clone for Linux. https://github.com/liamzebedee/ipod-manager
+ - OneNote 2010 clone, cross-platform (macOS/Linux), cross-device sync / concurrent editing. https://github.com/liamzebedee/onenote
+ - Old school Ubuntu 2010 file explorer / Nautilus. https://github.com/liamzebedee/filex
+ - iTunes clone for Linux, with working iPod sync. https://github.com/liamzebedee/ipod-manager
  - New programming language + runtime for prompt and agent orchestration. https://github.com/liamzebedee/gprompt
  - Neural networks that generate plant roots based on real plant root data. https://github.com/liamzebedee/generative-roots
 
