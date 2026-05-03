@@ -4,6 +4,8 @@ Real-life diabetic [cyborg](https://liamz.co/blog/im-a-cyborg-now-on-building-my
 
 # Current projects.
 
+ - Morpheus: Bio-inspired voxel cell morpohology simulator https://github.com/liamzebedee/morpheus
+ - A Rust implementation of Radhika Nagpal's MIT thesis, "Programmable Self-Assembly: Constructing Global Shape using Biologically-inspired Local Interactions and Origami Mathematics"  https://github.com/liamzebedee/biogami
  - Rewriting OpenTron (biolab automation) protocols to be well-engineered, composable typed Python. https://github.com/liamzebedee/Slowpoke-v2
  - OneNote 2010 clone, cross-platform (macOS/Linux), cross-device sync / concurrent editing. https://github.com/liamzebedee/onenote
  - Old school Ubuntu 2010 file explorer / Nautilus. https://github.com/liamzebedee/filex
