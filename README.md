@@ -4,6 +4,7 @@ Real-life diabetic [cyborg](https://liamz.co/blog/im-a-cyborg-now-on-building-my
 
 # Current projects.
 
+ - Bun template: personal software SPA template for LLM's using Bun, TypeScript, Turbolinks, SSG, SQLite. https://github.com/liamzebedee/bun-template
  - Termset: Save and load your terminal layouts. _mis en scene_ for the CLI. https://github.com/liamzebedee/termset
  - Morpheus: Bio-inspired voxel cell morpohology simulator https://github.com/liamzebedee/morpheus
  - A Rust implementation of Radhika Nagpal's MIT thesis, "Programmable Self-Assembly: Constructing Global Shape using Biologically-inspired Local Interactions and Origami Mathematics"  https://github.com/liamzebedee/biogami
